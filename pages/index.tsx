@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        This is my app in next js
+        This is my app in NextJs
       </main>
     </>
   )
